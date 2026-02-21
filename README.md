@@ -2,6 +2,8 @@
 
 Software engineer and Emacs enthusiast. I build tools that make working with text, code, and ideas more fluid.
 
+**[slashpablo.com](https://slashpablo.com)**
+
 ## Projects
 
 ### [ob-prompt.el](https://github.com/slashpablo/ob-prompt)
